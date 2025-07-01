@@ -11,13 +11,16 @@
   <img src="https://img.shields.io/badge/Built%20Different-%F0%9F%A6%84%20%E2%86%92%20%F0%9F%92%B0-orange" alt="Built Different Badge" />
 </div>
 
----
+
+
+
+
+
 
 📍 **Venci HQ**  
 🛰️ Coordinates: `42.0°N, Infinite Ambition°E`  
-🌍 **Location**: 3rd Rock from the Sun
+🌏 **Location**: 3rd Rock from the Sun
 
----
 
 ## 💼 Startup & Business — Founder’s Goldmine
 
@@ -51,7 +54,7 @@ I'm **obsessed with building world-class products** that blend speed, elegance, 
 
 Whether I'm scaling a backend, designing a product, or sketching go-to-market strategy on a napkin — I'm in my zone when the pressure's high and the mission's big.
 
----
+
 
 ## ⚙️ Technical, Product & Startup Skills
 
@@ -68,7 +71,7 @@ Whether I'm scaling a backend, designing a product, or sketching go-to-market st
 - **Business modeling**, **customer discovery**, **growth strategy**
 - **Pitching, fundraising**, and storytelling for founders
 
----
+
 
 ## 🛠️ Languages & Tools
 
@@ -95,7 +98,6 @@ Whether I'm scaling a backend, designing a product, or sketching go-to-market st
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
 
----
 
 ## 📈 Key Projects
 
@@ -111,7 +113,7 @@ Tech: `Rust`, `TFLite`, `Docker`, `Edge TPU`
 A reasoning engine + knowledge graph for autonomous agents.  
 Tech: `Python`, `LangChain`, `Neo4j`, `FastAPI`
 
----
+
 
 ## 🏆 Leadership & Impact
 
@@ -119,7 +121,6 @@ Tech: `Python`, `LangChain`, `Neo4j`, `FastAPI`
 - ⚽ **Football Team Captain** — Won **3 Consecutive Titles** 🏆 in the **District Champions League Cup** (128+ teams, 32 groups)
 - 🏏 **Cricket Team Captain (2021)** — Led team to victory in the **District Cricket Champions Trophy**
 
----
 
 ## 🌌 Passions
 
@@ -128,13 +129,11 @@ Tech: `Python`, `LangChain`, `Neo4j`, `FastAPI`
 - **🪐 Universe (especially Mars)** — my **future home**  
 - **⚽ Football** — pure strategy, creativity, and flow
 
----
 
 ## 😅 Fun Fact
 
 I'm **allergic to sleep** (in a good way) — I literally *can't stop building* 🚫🛌
 
----
 
 ## 🔭 Currently Building
 
@@ -142,7 +141,6 @@ I'm **allergic to sleep** (in a good way) — I literally *can't stop building* 
 - Fast infrastructure for idea → product → company  
 - Learning systems that evolve beyond their creators  
 
----
 
 ## 📡 Connect With Me
 
@@ -151,7 +149,9 @@ I'm **allergic to sleep** (in a good way) — I literally *can't stop building* 
 [![X / Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/im_vrts)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vencisol)
 
----
 
 > “I don’t just write code — I build engines that turn ideas into empires.”
+
+<img src="https://img.shields.io/badge/I%20live%20by%20this-%22Play%20to%20win%20or%20don%27t%20play%20at%20all.%22-red?style=for-the-badge&logo=target&logoColor=white" alt="Play to Win Motto" />
+
 
