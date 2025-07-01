@@ -1,4 +1,4 @@
-# Hi, I'm Vikash Choudhary 👋
+# Hi, I'm Vikash Choudhary 👋  
 **Computer Science & Mathematics | Founder | Product Builder | Changing the world one startup at a time 🌍**
 
 <div align="center">
@@ -11,27 +11,22 @@
   <img src="https://img.shields.io/badge/Built%20Different-%F0%9F%A6%84%20%E2%86%92%20%F0%9F%92%B0-orange" alt="Built Different Badge" />
 </div>
 
-
-
-
-
-
-
 📍 **Venci HQ**  
 🛰️ Coordinates: `42.0°N, Infinite Ambition°E`  
 🌏 **Location**: 3rd Rock from the Sun
 
+---
 
 ## 💼 Startup & Business — Founder’s Goldmine
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Y%20Combinator-FF6600?style=flat-square&logo=ycombinator&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TechCrunch-0F9D58?style=flat-square&logo=techcrunch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-a16z-000000?style=flat-square&logo=Andreessen-Horowitz&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Techstars-0A2640?style=flat-square&logo=techstars&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Founders%20Fund-000000?style=flat-square&logo=founders-fund&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat-square&logo=product-hunt&logoColor=white" alt="Product Hunt Badge" />
-  <img src="https://img.shields.io/badge/Hacker%20News-FF6600?style=flat-square&logo=ycombinatornews&logoColor=white" alt="Hacker News Badge" />
+  <img src="https://img.shields.io/badge/Y%20Combinator-FF6600?style=flat-square&logo=ycombinator&logoColor=white" />
+  <img src="https://img.shields.io/badge/TechCrunch-0F9D58?style=flat-square&logo=techcrunch&logoColor=white" />
+  <img src="https://img.shields.io/badge/a16z-%23000000.svg?style=flat-square&logoColor=white" alt="a16z Badge" />
+  <img src="https://img.shields.io/badge/Techstars-2B2B2B?style=flat-square&logo=starship&logoColor=white" alt="Techstars Badge" />
+  <img src="https://img.shields.io/badge/Founders%20Fund-111111?style=flat-square&logo=liberapay&logoColor=white" alt="Founders Fund Badge" />
+  <img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat-square&logo=product-hunt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacker%20News-FF6600?style=flat-square&logo=ycombinator&logoColor=white" />
 </div>
 
 ---
@@ -54,7 +49,7 @@ I'm **obsessed with building world-class products** that blend speed, elegance, 
 
 Whether I'm scaling a backend, designing a product, or sketching go-to-market strategy on a napkin — I'm in my zone when the pressure's high and the mission's big.
 
-
+---
 
 ## ⚙️ Technical, Product & Startup Skills
 
@@ -71,33 +66,34 @@ Whether I'm scaling a backend, designing a product, or sketching go-to-market st
 - **Business modeling**, **customer discovery**, **growth strategy**
 - **Pitching, fundraising**, and storytelling for founders
 
-
+---
 
 ## 🛠️ Languages & Tools
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Infra**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 
 **ML / AI / Data Science**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat)
 
+---
 
 ## 📈 Key Projects
 
@@ -113,7 +109,7 @@ Tech: `Rust`, `TFLite`, `Docker`, `Edge TPU`
 A reasoning engine + knowledge graph for autonomous agents.  
 Tech: `Python`, `LangChain`, `Neo4j`, `FastAPI`
 
-
+---
 
 ## 🏆 Leadership & Impact
 
@@ -121,6 +117,7 @@ Tech: `Python`, `LangChain`, `Neo4j`, `FastAPI`
 - ⚽ **Football Team Captain** — Won **3 Consecutive Titles** 🏆 in the **District Champions League Cup** (128+ teams, 32 groups)
 - 🏏 **Cricket Team Captain (2021)** — Led team to victory in the **District Cricket Champions Trophy**
 
+---
 
 ## 🌌 Passions
 
@@ -129,11 +126,13 @@ Tech: `Python`, `LangChain`, `Neo4j`, `FastAPI`
 - **🪐 Universe (especially Mars)** — my **future home**  
 - **⚽ Football** — pure strategy, creativity, and flow
 
+---
 
 ## 😅 Fun Fact
 
 I'm **allergic to sleep** (in a good way) — I literally *can't stop building* 🚫🛌
 
+---
 
 ## 🔭 Currently Building
 
@@ -141,17 +140,16 @@ I'm **allergic to sleep** (in a good way) — I literally *can't stop building* 
 - Fast infrastructure for idea → product → company  
 - Learning systems that evolve beyond their creators  
 
+---
 
 ## 📡 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://vikashchoudhary.com)  
-[![X / Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/im_vrts)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vencisol)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://vikashchoudhary.com)  
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/im_vrts)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vencisol)
 
+---
 
-> “I don’t just write code — I build engines that turn ideas into empires.”
-
-<img src="https://img.shields.io/badge/I%20live%20by%20this-%22Play%20to%20win%20or%20don%27t%20play%20at%20all.%22-red?style=for-the-badge&logo=target&logoColor=white" alt="Play to Win Motto" />
-
-
+> “I don’t just write code — I build engines that turn ideas into empires.”  
+> <img src="https://img.shields.io/badge/I%20live%20by%20this-%22Play%20to%20win%20or%20don%27t%20play%20at%20all.%22-red?style=for-the-badge&logo=target&logoColor=white" alt="Play to Win Motto" />
