@@ -1,4 +1,4 @@
-# Hi, I'm Vikash Choudhary 👋  
+# Hi, I'm Vikash Choudhary 👋
 **Computer Science & Mathematics | Founder | Product Builder | Changing the world one startup at a time 🌍**
 
 <div align="center">
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Startup%20Builder-%F0%9F%9A%80-informational" alt="Startup Builder Badge" />
   <img src="https://img.shields.io/badge/Future%20Martian-%F0%9F%9A%80%E2%9A%A1-red" alt="Martian Badge" />
   <img src="https://img.shields.io/badge/Allergic%20to%20Sleep-%F0%9F%92%8A-darkgreen" alt="Sleep Allergy Badge" />
+  <img src="https://img.shields.io/badge/Built%20Different-%F0%9F%A6%84%20%E2%86%92%20%F0%9F%92%B0-orange" alt="Built Different Badge" />
 </div>
 
 ---
@@ -18,14 +19,16 @@
 
 ---
 
-## 🚀 Startup & Business Vibes
+## 💼 Startup & Business — Founder’s Goldmine
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Y%20Combinator-FF6600?style=flat&logo=ycombinator&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TechCrunch-0F9D58?style=flat&logo=techcrunch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-a16z-000000?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Startup%20Builder-%F0%9F%9A%80-informational" />
-  <img src="https://img.shields.io/badge/-Product%20First-%F0%9F%94%A5-critical" />
+  <img src="https://img.shields.io/badge/-Y%20Combinator-FF6600?style=flat-square&logo=ycombinator&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TechCrunch-0F9D58?style=flat-square&logo=techcrunch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-a16z-000000?style=flat-square&logo=Andreessen-Horowitz&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Techstars-0A2640?style=flat-square&logo=techstars&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Founders%20Fund-000000?style=flat-square&logo=founders-fund&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat-square&logo=product-hunt&logoColor=white" alt="Product Hunt Badge" />
+  <img src="https://img.shields.io/badge/Hacker%20News-FF6600?style=flat-square&logo=ycombinatornews&logoColor=white" alt="Hacker News Badge" />
 </div>
 
 ---
@@ -123,7 +126,7 @@ Tech: `Python`, `LangChain`, `Neo4j`, `FastAPI`
 - **🚀 Technology & Artificial Intelligence** — Building the future  
 - **📊 Finance** — Markets, algorithms, and strategy  
 - **🪐 Universe (especially Mars)** — my **future home**  
-- **⚽ Football** — Passion, precision, and flow
+- **⚽ Football** — pure strategy, creativity, and flow
 
 ---
 
@@ -144,10 +147,11 @@ I'm **allergic to sleep** (in a good way) — I literally *can't stop building* 
 ## 📡 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)  
-[![X / Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://vikashchoudhary.com)  
+[![X / Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/im_vrts)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vencisol)
 
 ---
 
-> “I don’t just write code — I build engines that turn ideas into empires.”  
+> “I don’t just write code — I build engines that turn ideas into empires.”
+
